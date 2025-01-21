@@ -30,3 +30,16 @@ This coursework aims to create a classification model that predicts whether a pa
 ## Instructions
 To reproduce the results, run the provided Python code files and follow the instructions in the Jupyter Notebook.
 
+## Group Details
+
+**Group ID:** 26
+
+| Sr. | Name of Student               | Student ID no. |
+|-----|-------------------------------|----------------|
+| 1.  | Shubham S. Sonawane          | 239062846      |
+| 2.  | Dhvanil Alpeshkumar Patel    | 239064467      |
+| 3.  | Vivek Prakash Shah           | 239062179      |
+| 4.  | Ritika Ritika Karthikeyan    | 239057165      |
+| 5.  | Om Vilas Shimpi              | 239063265     |
+
+
